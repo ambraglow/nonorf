@@ -53,3 +53,4 @@ Untitled-backups/
 .DS_Store
 *.kicad_sch.lck
 *.kicad_pcb.lck
+*.cad
